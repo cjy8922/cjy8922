@@ -43,8 +43,9 @@ I'm Jun Yeong Cha, an AI Developer and Data Scientist from Seoul, Korea. You can
 ### &#x1f4c8; Latest Project
 <a href="https://github.com/cjy8922/PROJ_ModuInterior">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cjy8922&repo=PROJ_ModuInterior&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+</a>    
 
-<a href="https://github.com/cjy8922/SWC_DACapstoneDesign">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cjy8922&repo=SWC_DACapstoneDesign&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+
+<a href="https://github.com/cjy8922/AIC_CompetitionOCR">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cjy8922&repo=AIC_CompetitionOCR&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
