@@ -11,6 +11,8 @@
   <img align="center" src="https://www.vectorlogo.zone/logos/kakaocorp_talk/kakaocorp_talk-icon.svg" alt="svMnIR7g" height="40" width="40" /></a>
 </p>
 
+---
+
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="23px" height="23px" /> Hello, there! 
 I'm Jun Yeong Cha, an AI Developer and Data Scientist from Seoul, Korea. You can find more details about me through this link.
 </br>
@@ -40,9 +42,9 @@ I'm Jun Yeong Cha, an AI Developer and Data Scientist from Seoul, Korea. You can
 
 ### &#x1f4c8; Latest Project
 <a href="https://github.com/cjy8922/PROJ_ModuInterior">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cjy8922&repo=PROJ_ModuInterior&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cjy8922&repo=PROJ_ModuInterior&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/cjy8922/SWC_DACapstoneDesign">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cjy8922&repo=SWC_DACapstoneDesign&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
