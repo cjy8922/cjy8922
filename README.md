@@ -45,11 +45,7 @@ I'm Jun Yeong Cha, an AI Engineer and Data Scientist from Seoul, Korea. You can 
 </p>
 
 ### 📊 Latest Project
-<a href="https://github.com/cjy8922/PROJ_ModuInterior">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cjy8922&repo=PROJ_ModuInterior&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cjy8922&repo=PROJ_ModuInterior&theme=aura)](https://github.com/cjy8922/PROJ_ModuInterior)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cjy8922&repo=AIC_CompetitionOCR&theme=aura)](https://github.com/cjy8922/AIC_CompetitionOCR)
 
-
-<a href="https://github.com/cjy8922/AIC_CompetitionOCR/">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cjy8922&repo=AIC_CompetitionOCR&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+<!--<a href="https://github.com/cjy8922/AIC_CompetitionOCR/"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cjy8922&repo=AIC_CompetitionOCR&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> </a> -->
