@@ -14,7 +14,7 @@
 ---
 
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="23px" height="23px" /> Hello, there! 
-I'm Jun Yeong Cha, an AI Developer and Data Scientist from Seoul, Korea. You can find more details about me through this link.
+I'm Jun Yeong Cha, an AI Engineer and Data Scientist from Seoul, Korea. You can find more details about me through this link.
 </br>
 
 ### ⚡Tools & Skills
@@ -37,15 +37,19 @@ I'm Jun Yeong Cha, an AI Developer and Data Scientist from Seoul, Korea. You can
   <img src="https://img.shields.io/badge/opencv-%235C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="opencv" />
   <img src="https://img.shields.io/badge/pytorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch" />
   <img src="https://img.shields.io/badge/lightning-%23792EE5?style=for-the-badge&logo=lightning&logoColor=white" alt="lightning" />
+  </br>  
+  
+  <img src="https://img.shields.io/badge/qt-%2341CD52?style=for-the-badge&logo=qt&logoColor=black" alt="qt" />
+  <img src="https://img.shields.io/badge/streamlit-%23FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="streamlit" />
   </br>
 </p>
 
-### &#x1f4c8; Latest Project
+### 📊 Latest Project
 <a href="https://github.com/cjy8922/PROJ_ModuInterior">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cjy8922&repo=PROJ_ModuInterior&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 
-<a href="https://github.com/cjy8922/AIC_CompetitionOCR">
+<a href="https://github.com/cjy8922/AIC_CompetitionOCR/">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cjy8922&repo=AIC_CompetitionOCR&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
