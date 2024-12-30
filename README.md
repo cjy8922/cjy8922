@@ -44,6 +44,13 @@ I'm Jun Yeong Cha, an AI Engineer and Data Scientist from Seoul, Korea. You can 
   </br>
 </p>
 
+### 📚 Publications
+1.	2024, “VVC Extension for Compressing Phase Holograms”, Lee Taehwa, Choi Seungmi, **Cha Junyeong**, Oh Kwan-Jung, Lim Yongjun, Kim Hui Yong, 2024 Summer Conference of The Korean Institute of Broadcast and Media Engineers
+2.	2024, “A Study on the Optimal Propagation Distance According to the Change in Pixel Pitch of Phase Holograms”, Lee Taehwa, **Cha Junyeong**, Choi Seungmi, Hyun Min Ban, Kim Hui Yong, Journal of Broadcast Engineering (JBE), Vol 29.3: 341-351pp
+3.	2024, “Propagation as Data (PaD): Neural Phase Hologram Generation with Variable Distance Support”, **Jun Yeong Cha**, Hyunmin Ban, Seongmi Choi, Hui Yong Kim, 2024 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (IEEE VRW),
+4.	2024, Seungmi Choi, “Distribution-Shifting: Novel phase-distortion metrics for hologram processing”, **Jun Yeong Cha**, Hyunmin Ban, Kwan-Jung Oh, Hyunsuk Ko, Hui Yong Kim, 2024 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (IEEE VRW)
+5.	2024, “NHVC: Neural Holographic Video Compression with Scalable Architecture”, Hyunmin Ban, Seungmi Choi, **Jun Yeong Cha**, Yeongwoong Kim, Hui Yong Kim, 2024 IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR)
+
 ### 📊 Latest Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cjy8922&repo=PROJ_ModuInterior&theme=aura)](https://github.com/cjy8922/PROJ_ModuInterior)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cjy8922&repo=AIC_CompetitionOCR&theme=aura)](https://github.com/cjy8922/AIC_CompetitionOCR)
