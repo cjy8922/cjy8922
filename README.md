@@ -35,6 +35,7 @@ I'm Jun Yeong Cha, an AI Engineer and Data Scientist from Seoul, Korea. You can 
   
   <img src="https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" />
   <img src="https://img.shields.io/badge/scipy-%238CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="scipy" />
+  <img src="https://img.shields.io/badge/scikitlearn-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikitlearn" />
   <img src="https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
   <img src="https://img.shields.io/badge/opencv-%235C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="opencv" />
   <img src="https://img.shields.io/badge/pytorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch" />
