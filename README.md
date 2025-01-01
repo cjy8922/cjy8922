@@ -14,7 +14,7 @@
 ---
 
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="23px" height="23px" /> Hello, there! 
-I'm Jun Yeong Cha, an AI Engineer and Data Scientist from Seoul, Korea. You can find more details about me below.
+I'm Jun Yeong Cha, an AI Engineer and Data Scientist from Seoul, Korea. You can find more details about me through below links.
 </br>
 [English](https://drive.google.com/file/d/1Xh44Wt49wT11ZZBSpKh-jVLX2qMcWeSR/view?usp=sharing) [한국어](https://whaleeeee.notion.site/16cd6cb5ddb18052aa70e6ddca3b5526)
 </br>
